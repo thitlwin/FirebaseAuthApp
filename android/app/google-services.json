@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "149119646954",
+    "firebase_url": "https://authenticationproject-25ee7.firebaseio.com",
+    "project_id": "authenticationproject-25ee7",
+    "storage_bucket": "authenticationproject-25ee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149119646954:android:ae4c298aa518bc36816b93",
+        "android_client_info": {
+          "package_name": "com.tapmode.flutterstarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149119646954-kbmobdcah79m57mekc53dt7dtf62e74h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZeydR_uPzDdNF4bA4U6f66t_eZBOUohc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149119646954-kbmobdcah79m57mekc53dt7dtf62e74h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
